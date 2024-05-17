@@ -1,0 +1,5 @@
+## sum file
+go.sum
+
+## local env file
+.env
